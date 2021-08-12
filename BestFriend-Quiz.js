@@ -47,7 +47,6 @@ function scores(){
   topScorer.map(score => console.log(score.name, " : ", score.score));
 }
 
-
 greet()
 play()
 scores()
